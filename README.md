@@ -62,5 +62,8 @@ The JavaScript file (`score_keeper.js`) includes:
 
 - A function to reset the game state.
 
+## Credits
+Images: [Unsplash](https://unsplash.com)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details

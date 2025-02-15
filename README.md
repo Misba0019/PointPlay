@@ -18,7 +18,20 @@ A simple web application to keep track of ping pong scores for two players. This
 
 - **JavaScript:** Logic for scorekeeping and game control
 
-## How to Use-
+## To run this project locally, follow these steps:
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/Misba0019/Score_Keeper_Game.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd Score_Keeper_Game
+    ```
+
+3. **Open the `index.html` file in your preferred web browser.**
+
+## How to Use
 - Use the buttons to increase the scores for Player One and Player Two.
 
 - Select the winning score from the dropdown menu.

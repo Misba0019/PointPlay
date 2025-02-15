@@ -13,16 +13,18 @@
     <div class="container">
         <div class="columns">
             <div class="column is-half is-offset-one-quarter">
+                <!-- Card container for the score keeper -->
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-2by1">
+                            <!-- Image displayed at the top of the card -->
                             <img src="https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="ping pong">
                     </figure>
                 </div>
                     <header class="card-header">
+                        <!-- Card header with title and icon -->
                         <p class="card-header-title">Ping Pong Score Keeper
                         </p>
-
                         <button class="card-header-icon" aria-label="more options">
                             <span class="icon">
                                 <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -31,9 +33,11 @@
                     </header>
                     <div class="card-content">
                         <div class="content">
+                            <!-- Display the current scores -->
                             <h1 class="title-is-1"><span id="p1score">0</span> to <span id="p2score">0</span></h1>
                             <p>Use the buttons below to keep track of the scores.</p>
                             <label for="select" class="label is-large is-inline">Players No.</label>
+                            <!-- Dropdown menu for selecting the number of players -->
                             <div class="select is-rounded">
                                 <select name="select" id="select">
                                     <option value="4">4</option>
@@ -45,6 +49,7 @@
                         </div>
                     </div>
                     <footer class="card-footer">
+                        <!-- Buttons for increasing the scores and resetting the game -->
                         <button class="button is-primary card-footer-item" id="p1">+1 Player One</button>
                         <button class="button is-info card-footer-item" id="p2">+1 Player Two</button>
                         <button class="button is-danger card-footer-item" id="reset">Reset</button>

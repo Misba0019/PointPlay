@@ -32,11 +32,11 @@ A simple web application to keep track of ping pong scores for two players. This
 3. **Open the `index.html` file in your preferred web browser.**
 
 ## How to Use
-- Use the buttons to increase the scores for Player One and Player Two.
+1. Use the buttons to increase the scores for Player One and Player Two.
 
-- Select the winning score from the dropdown menu.
+2. Select the winning score from the dropdown menu.
 
-- Press the reset button to start a new game.
+3. Press the reset button to start a new game.
 
 ## HTML Structure
 The HTML file (`index.html`) includes:

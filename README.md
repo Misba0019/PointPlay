@@ -29,7 +29,7 @@ A simple web application to keep track of ping pong scores for two players. This
     cd Score_Keeper_Game
     ```
 
-3. **Open the `index.html` file in your preferred web browser.**
+3. **Open the `score_keeper.html` file in your preferred web browser.**
 
 ## How to Use
 1. Use the buttons to increase the scores for Player One and Player Two.
@@ -39,7 +39,7 @@ A simple web application to keep track of ping pong scores for two players. This
 3. Press the reset button to start a new game.
 
 ## HTML Structure
-The HTML file (`index.html`) includes:
+The HTML file (`score_keeper.html`) includes:
 
 - A Bulma-based card layout for displaying the scorekeeper interface.
 

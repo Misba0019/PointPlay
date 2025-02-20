@@ -26,7 +26,7 @@ A simple web application to keep track of ping pong scores for two players. This
 
 2. **Navigate to the project directory:**
     ```bash
-    cd Score Keeper Game
+    cd Score_Keeper_Game
     ```
 
 3. **Open the `score_keeper.html` file in your preferred web browser.**

@@ -24,12 +24,7 @@ A simple web application to keep track of ping pong scores for two players. This
     git clone https://github.com/Misba0019/Score_Keeper_Game.git
     ```
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd Score_Keeper_Game
-    ```
-
-3. **Open the `score_keeper.html` file in your preferred web browser.**
+2. **Open the `score_keeper.html` file in your preferred web browser.**
 
 ## How to Use
 1. Use the buttons to increase the scores for Player One and Player Two.
@@ -64,6 +59,40 @@ The JavaScript file (`score_keeper.js`) includes:
 
 ## Credits
 Images: [Unsplash](https://unsplash.com)
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
+To get started:
+1. **Fork** the repo.
+
+2. **Clone** your forked repository. 
+
+3. **Create** a new branch:  
+   `git checkout -b feature-name`
+
+4. **Make** your changes.
+
+5. **Stage** your changes:  
+   `git add .`
+
+4. **Commit** your changes:  
+   `git commit -m "Add feature"`
+
+5. **Push** to your fork:  
+   `git push origin feature-name`
+
+6. **Create** a Pull Request:  
+   - Navigate to your forked repository on GitHub.
+
+   - Click on the "Compare & pull request" button.
+
+   - Provide a clear title and description for your pull request.
+
+   - Submit the pull request to the original repository
+
+Please ensure your code follows the existing style and includes clear, descriptive commit messages.  
+Thank you for your contribution! 🤍
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

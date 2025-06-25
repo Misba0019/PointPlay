@@ -41,6 +41,7 @@ A simple and responsive web app to keep track of ping pong scores between two pl
 
 ## Screenshot
 
+### 🌟 Project Overview
 ![PointPlay Screenshot](./screenshot/PointPlay.png)
 
 ---

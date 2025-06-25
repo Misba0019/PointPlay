@@ -1,5 +1,4 @@
-# Ping Pong Score Keeper
-## Description
+# PointPlay
 A simple web application to keep track of ping pong scores for two players. This project uses HTML, CSS (Bulma), and JavaScript to provide a clean and functional user interface for scorekeeping.
 
 ## Features
@@ -21,7 +20,7 @@ A simple web application to keep track of ping pong scores for two players. This
 ## To run this project locally, follow these steps:
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Misba0019/Score_Keeper_Game.git
+    git clone https://github.com/Misba0019/PointPlay.git
     ```
 
 2. **Open the `score_keeper.html` file in your preferred web browser.**

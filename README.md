@@ -4,6 +4,13 @@ A simple and responsive web app to keep track of ping pong scores between two pl
 
 ---
 
+## Screenshot
+
+### Project Overview
+![PointPlay Screenshot](./screenshot/PointPlay.png)
+
+---
+
 ## Features
 
 - Track scores for two players
@@ -21,28 +28,21 @@ A simple and responsive web app to keep track of ping pong scores between two pl
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Misba0019/PointPlay.git
     ```
-2. **Open `score_keeper.html` in your preferred web browser.**
+2. **Simply open `score_keeper.html` in your web browser** — no installation needed.
 
 ---
 
-## 🕹️ How to Use
+## How to Use
 
 - Click the player buttons to increase their scores
 - Use the dropdown to set a winning score
-- Press reset to start a new match
-
----
-
-## Screenshot
-
-### 🌟 Project Overview
-![PointPlay Screenshot](./screenshot/PointPlay.png)
+- Click **Reset** to start a new match.
 
 ---
 
